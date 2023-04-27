@@ -24,7 +24,7 @@
  
  
  <p align="center">
-	<a href="mailto:ijasnazeer786@gmail.com?subject=Github%20Visitor&body=Hi%20Nevin,%0AI%20am%20"><img src="http://img.shields.io/badge/ijasnazeer786@gmail.com-_?label=Send%20Mail&style=social&logo=gmail" alt="ijasnazeer786@gmail.com">
+	<a href="mailto:ijasnazeer786@gmail.com?subject=Github%20Visitor&body=Hi%20Ijas,%0AI%20am%20"><img src="http://img.shields.io/badge/ijasnazeer786@gmail.com-_?label=Send%20Mail&style=social&logo=gmail" alt="ijasnazeer786@gmail.com">
     </a>
  </p>
 
